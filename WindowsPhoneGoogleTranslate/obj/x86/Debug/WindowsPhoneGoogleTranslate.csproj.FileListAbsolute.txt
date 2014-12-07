@@ -1,0 +1,16 @@
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\x86\Debug\WindowsPhoneGoogleTranslate.csprojResolveAssemblyReference.cache
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\x86\Debug\App.g.cs
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\x86\Debug\MainPage.g.cs
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\x86\Debug\WindowsPhoneGoogleTranslate.g.resources
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\x86\Debug\ApplicationIcon.png
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\x86\Debug\Background.png
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\x86\Debug\WindowsPhoneGoogleTranslate.dll
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\x86\Debug\WindowsPhoneGoogleTranslate.pdb
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\x86\Debug\AppManifest.xaml
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\x86\Debug\Properties\WMAppManifest.xml
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\x86\Debug\WindowsPhoneGoogleTranslate_Debug_x86.xap
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\x86\Debug\Sqlite.winmd
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\x86\Debug\Sqlite.dll
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\x86\Debug\WindowsPhoneGoogleTranslate.dll
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\x86\Debug\WindowsPhoneGoogleTranslate.pdb
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\x86\Debug\XapCacheFile.xml

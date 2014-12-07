@@ -1,0 +1,12 @@
+﻿<xapCache source="H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\x86\Debug\WindowsPhoneGoogleTranslate_Debug_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="07.12.2014 14:26:47">
+  <file source="H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\x86\Debug\WindowsPhoneGoogleTranslate.dll" archivePath="WindowsPhoneGoogleTranslate.dll" lastWriteTime="07.12.2014 14:26:45" />
+  <file source="H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Languages.xml" archivePath="Languages.xml" lastWriteTime="18.12.2010 1:46:22" />
+  <file source="H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="12.12.2010 23:57:56" />
+  <file source="H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\x86\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="23.11.2014 17:35:38" />
+  <file source="H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\x86\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="12.12.2010 23:57:56" />
+  <file source="H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\x86\Debug\Background.png" archivePath="Background.png" lastWriteTime="12.12.2010 23:57:56" />
+  <file source="H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\packages\sqlite-net-wp8.3.8.5\build\windowsphone8\x86\Sqlite.winmd" archivePath="Sqlite.winmd" lastWriteTime="23.11.2014 16:51:37" />
+  <file source="H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\packages\sqlite-net-wp8.3.8.5\build\windowsphone8\x86\Sqlite.dll" archivePath="Sqlite.dll" lastWriteTime="23.11.2014 16:51:37" />
+  <file source="H:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\SQLite.WP80\3.8.7.2\Redist\Debug\x86\sqlite3.dll" archivePath="sqlite3.dll" lastWriteTime="22.11.2014 20:43:09" />
+  <file source="H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\x86\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="07.12.2014 11:53:05" />
+</xapCache>

@@ -1,0 +1,15 @@
+P:\C#\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\Debug\ApplicationIcon.png
+P:\C#\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\Debug\Background.png
+P:\C#\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\Debug\WindowsPhoneGoogleTranslate.dll
+P:\C#\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\Debug\WindowsPhoneGoogleTranslate.pdb
+P:\C#\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\Debug\AppManifest.xaml
+P:\C#\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\Bin\Debug\WindowsPhoneGoogleTranslate.xap
+P:\C#\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\Debug\ResolveAssemblyReference.cache
+P:\C#\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\Debug\App.g.i.cs
+P:\C#\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\Debug\MainPage.g.i.cs
+P:\C#\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\Debug\WindowsPhoneGoogleTranslate.g.resources
+P:\C#\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\Debug\WindowsPhoneGoogleTranslate.dll
+P:\C#\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\Debug\WindowsPhoneGoogleTranslate.pdb
+P:\C#\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\Debug\XapCacheFile.xml
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\Debug\WindowsPhoneGoogleTranslate.dll
+H:\Users\Nikolay\Desktop\WindowsPhoneGoogleTranslate\WindowsPhoneGoogleTranslate\obj\Debug\WindowsPhoneGoogleTranslate.pdb
