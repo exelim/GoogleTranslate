@@ -64,13 +64,13 @@ namespace WindowsPhoneGoogleTranslate
         {
             bool test_1 = ItalianTOEnglish();
             bool test_2 = EnglishTOItalien();
-            bool test_3 = EnglishTORussian();
-            bool test_4 = RussianTOEnglish();
-            bool test_5 = DataBaseUsage();
+            //bool test_3 = EnglishTORussian();
+            //bool test_4 = RussianTOEnglish();
+            //bool test_5 = DataBaseUsage();
             bool test_6 = TranslateNumbers();
             bool test_7 = TranslateNotExistingWord();
 
-            return test_1 && test_2 && test_5 && test_6 && test_7;
+            return test_1 && test_2 && /*test_5 &&*/ test_6 && test_7;
         }
 
         public bool ItalianTOEnglish()
@@ -86,16 +86,7 @@ namespace WindowsPhoneGoogleTranslate
             txtInput = "gatto";
 
             Translate_test( from, to );
-
-           // await webclient_DownloadStringCompleted(this, null);
-
-            System.Threading.Thread MyThread1 =
-                  new System.Threading.Thread(delegate() { Translate_test (from, to); });
-            MyThread1.Join();
-
-
-
-            
+                     
             return txtOutput == "cat" ? true : false ;
         }
 

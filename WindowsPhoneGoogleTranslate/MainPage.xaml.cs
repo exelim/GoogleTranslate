@@ -110,9 +110,12 @@ namespace WindowsPhoneGoogleTranslate
 
 
             // Retriving Data 
-            var tp = dbConn.Query<Word>("select * from word where Language='" + from.Code + "' and targetLanguage='" + to.Code + "' and Text='" + txtInput.Text + "' ").FirstOrDefault();
-            if (tp != null && (lbxFrom.SelectedItem != null || lbxTo.SelectedItem != null))
-                txtOutput.Text = tp.targetText;
+            if ((lbxFrom.SelectedItem != null || lbxTo.SelectedItem != null))
+            {
+                var tp = dbConn.Query<Word>("select * from word where Language='" + from.Code + "' and targetLanguage='" + to.Code + "' and Text='" + txtInput.Text + "' ").FirstOrDefault();
+                if(tp != null )
+                    txtOutput.Text = tp.targetText;
+            }
 
             else if (lbxFrom.SelectedItem == null || lbxTo.SelectedItem == null)
             {
